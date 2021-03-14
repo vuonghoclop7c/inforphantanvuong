@@ -1,0 +1,32 @@
+#home
+RewriteRule trang-chu.html index.php
+
+#token tools
+RewriteRule check-token.html index.php?DK=Check_Live
+RewriteRule destroy-token.html index.php?DK=Destroy_Token
+RewriteRule check-info-token.html index.php?DK=Check_Info
+RewriteRule check-sub-token.html index.php?DK=Check_Sub
+RewriteRule loc-trung-token.html index.php?DK=Loc_Trung
+RewriteRule loc-token-tu-list.html index.php?DK=Loc_List
+RewriteRule loc-quoc-gia.html index.php?DK=Loc_Quoc_Gia
+RewriteRule check-token-speed.html index.php?DK=Check_Live_Speed
+RewriteRule loc-token-ao.html index.php?DK=Loc_Token_Ao
+RewriteRule get-token-tu-clone.html index.php?DK=Get_Token_Clone
+RewriteRule get-token-fanpage.html index.php?DK=Get_Token_Page
+RewriteRule get-token.html index.php?DK=Get_Token
+
+#facebook tools
+RewriteRule loc-ban-be.html index.php?DK=Loc_Ban_Be
+RewriteRule dem-tin-nhan.html index.php?DK=Dem_Tin_Nhan
+RewriteRule check-live-uid.html index.php?DK=Check_Live_UID
+RewriteRule chuyen-token-qua-cookie.html index.php?DK=Convert_Token
+RewriteRule check-live-clone.html index.php?DK=Check_Clone
+
+#buzz tools
+RewriteRule buzz-comment.html index.php?DK=Buzz_Binh_Luan
+RewriteRule buzz-rate.html index.php?DK=Buzz_Danh_Gia
+RewriteRule buzz-request.html index.php?DK=Buzz_Request
+RewriteRule buzz-reaction.html index.php?DK=Buzz_Reaction
+
+
+
