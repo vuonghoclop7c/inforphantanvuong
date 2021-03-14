@@ -79,7 +79,7 @@ b.max-bold{ font-weight: 700; }
 
 header{ position: absolute; top: 30px; left: 0; right: 0; z-index: 100; }
 
-header .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; background-image: url('https://i.pinimg.com/originals/b4/63/87/b46387601a9f00c6426e2472a11d8df7.gif'); color: #fff; }
+header .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; background-image: url('https://i.pinimg.com/originals/b4/63/87/b46387601a9f00c6426e2472a11d8df7.gif'); color: #fff; border: 7px solid darkblue; border-radius: 30px;}
 
 header .info{ margin-bottom: 10px; }
 
@@ -125,7 +125,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .intro .social-icons > li > a:hover:after{ -webkit-transform: scale(1); transform: scale(1); }
 .intro h2 b img {width: 50px ; height: 50px; margin:-8px 0 0 -2px; padding: 0;}
 .intro h2 {font-size: 55px;}
-
+.intro {border: 5px solid black; border-radius: 40px;}
 
 /* ---------------------------------
 5. BTN SECTION
